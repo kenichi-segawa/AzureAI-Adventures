@@ -1,0 +1,10 @@
+# Azure-AI-Search folder
+/Azure-AI-Search/*.amlignore
+/Azure-AI-Search/*.amltmp
+/Azure-AI-Search/test.py
+/Azure-AI-Search/.env
+/Azure-AI-Search/data
+/Azure-AI-Search/data-chunking
+/Azure-AI-Search/myenv
+/Azure-AI-Search/.ipynb_checkpoints
+/Azure-AI-Search/.ipynb_aml_checkpoints
