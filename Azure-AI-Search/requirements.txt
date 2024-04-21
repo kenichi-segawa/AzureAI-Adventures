@@ -1,8 +1,8 @@
-openai==0.28.1
+openai
 PyPDF2
 python-dotenv
 azure-ai-formrecognizer
-langchain==0.0.316
+langchain
 azure-storage-blob 
 azure-identity
-azure-search-documents==11.4.0b11
+azure-search-documents==11.6.0b2

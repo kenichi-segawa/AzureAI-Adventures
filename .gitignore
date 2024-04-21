@@ -8,3 +8,7 @@
 /Azure-AI-Search/myenv
 /Azure-AI-Search/.ipynb_checkpoints
 /Azure-AI-Search/.ipynb_aml_checkpoints
+/Azure-AI-Search/5-AISearch-with-Function.ipynb
+.amlignore
+.amlignore.amltmp
+.gitignore.amltmp
